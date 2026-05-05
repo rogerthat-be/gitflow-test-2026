@@ -8,8 +8,9 @@ GH Flow is short for GitHub Flow, a lightweight workflow for software developmen
 
 ## How to use GH Flow?
 
-1. Create a new branch for your fix or bug fix.
-2. bla bla bla
+1. Create a new branch for your feature or bug fix.
+2. what else?
+3. bla bla bla
 
 ## Author
 Sjouwke Van Parys
