@@ -6,4 +6,5 @@ Just an easy demo for GH Flow
 GH Flow is short for GitHub Flow, a lightweight workflow for software development...
 
 ## Author
+Sjouwke Van Parys
 Frederick Roegiers
